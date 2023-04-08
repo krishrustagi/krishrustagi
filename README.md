@@ -13,7 +13,7 @@ _Formal Intro? Sure_
 
 _To start about me, I am a Computer Science Engineering underGrad at IIIT Nagpur with keen interest in Backend Development. My skill set comprises of Java, CPP, SQL and somewhat ML/AI (:P)._
 
-_Currently, I am working with [Groww, India](https://www.groww.in) as an SDE Intern. Also I have previously worked at [Delhi Technological Intern](https://www.turno.club) for a span of 3 months as Research Intern. Always been in love with problem solving and DSA, and 
+_Currently, I am working with [Groww, India](https://www.groww.in) as an SDE Intern. I have also been an Open Source Contributer at Keras. Also I have previously worked at [Delhi Technological Intern](https://www.turno.club) for a span of 3 months as Research Intern. Always been in love with problem solving and DSA, and 
 now also fascinated by System Design and Software Architecture :)_
 
 
